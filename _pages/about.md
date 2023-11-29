@@ -18,6 +18,4 @@ My pursuit involves pushing the boundaries of language technology by harnessing 
 
 My research journey is driven by a commitment to not only explore theoretical frameworks but to actively contribute to the practical evolution of NLP technologies across various domains. Through my work, I aspire to make meaningful strides in the field, fostering advancements that resonate with the broader landscape of language processing and communication technologies.
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+<b>I am looking for a Master's program in Computer Science with a concentration in Natural Language Processing, Artificial Intelligence, and Machine Learning. I prefer a thesis-based program.<b>
