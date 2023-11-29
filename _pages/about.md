@@ -24,8 +24,5 @@ Research Interest
 ======
 My primary research interest centers on Natural Language Processing (NLP), with a distinct emphasis on advancing the realms of language modeling, emotion detection, and multimodal NLP. I am passionate about delving into innovative methodologies that amplify language comprehension and processing capabilities, integrating diverse modalities such as text, audio, and visual information.
 
-My pursuit involves pushing the boundaries of language technology by harnessing the power of advanced machine learning techniques and cutting-edge deep neural networks. My overarching goal is to elevate the precision and efficiency of NLP tasks, facilitating the development of applications like sentiment analysis, machine translation, and sophisticated chatbot systems.
-
-My research journey is driven by a commitment to not only explore theoretical frameworks but to actively contribute to the practical evolution of NLP technologies across various domains. Through my work, I aspire to make meaningful strides in the field, fostering advancements that resonate with the broader landscape of language processing and communication technologies.
 
 <b>I am preparing for a thesis-based Master's program in Computer Science with a concentration in Natural Language Processing, Artificial Intelligence, or Machine Learning for fall 2024.<b>
