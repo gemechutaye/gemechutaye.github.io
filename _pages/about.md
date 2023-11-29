@@ -8,9 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a senior year undergraduate student studying Computer Science and Engineering at Jain University in Bengaluru, India. I was awarded a fully funded scholarship by the Government of India and Jain University for this program. Starting this December, I will be working as a Teaching Assistant at Jain University. 
+Hi! I am a senior year undergraduate student studying Computer Science and Engineering at Jain University in Bengaluru, India. I was awarded a fully funded scholarship by the Government of India and Jain University for this program.
 
-I have actively contributed to two research papers. In the first paper, my team and I reviewed different class scheduling systems based on Artificial Intelligence. Our goal was to improve and optimize the current scheduling process in higher education. I had the opportunity to present this paper at a conference, and it will be indexed in IEEE by January.
+Research Experiance
+======
+
+Starting this December, I will be working as a Teaching and Research Assistant at Jain University. I have actively contributed to two research papers. In the first paper, my team and I reviewed different class scheduling systems based on Artificial Intelligence. Our goal was to improve and optimize the current scheduling process in higher education. I had the opportunity to present this paper at a conference, and it will be indexed in IEEE by January.
 
 The second project focused on recommending music to individuals in the mental health field. It utilized a chatbot interface similar to ChatGPT, but specifically designed for providing music recommendations in the context of mental health. The purpose of this paper is to analyze the different models, language systems, and neural networks used in previous research, and to establish a link between mental health chatbot applications and music platforms like Spotify and YouTube Music. By combining these elements, the aim is to offer an improved solution for individuals who require assistance.
 
