@@ -8,7 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Hi! I am a senior year undergraduate student studying Computer Science and Engineering at Jain University in Bengaluru, India. I was awarded a fully funded scholarship by the Government of India and Jain University for this program. Starting this December, I will be working as a Teaching Assistant at Jain University. 
+
+I have actively contributed to two research papers. In the first paper, my team and I reviewed different class scheduling systems based on Artificial Intelligence. Our goal was to improve and optimize the current scheduling process in higher education. I had the opportunity to present this paper at a conference, and it will be indexed in IEEE by January.
+
+The second project focused on recommending music to individuals in the mental health field. It utilized a chatbot interface similar to ChatGPT, but specifically designed for providing music recommendations in the context of mental health. The purpose of this paper is to analyze the different models, language systems, and neural networks used in previous research, and to establish a link between mental health chatbot applications and music platforms like Spotify and YouTube Music. By combining these elements, the aim is to offer an improved solution for individuals who require assistance.
+
+Both papers will be available on IEEE and Springer by January and June respectively. If you’re interested to look at please feel free to email me.
+
+<b>Feel free to contact me for any inquiries or potential colaboration or join for a paper collaboration in any research topic. You can reach me at [geme.t07[at]gmail.com](geme.t07@gmail.com) <b>
+
+
 
 Research Interest
 ======
@@ -18,4 +28,4 @@ My pursuit involves pushing the boundaries of language technology by harnessing 
 
 My research journey is driven by a commitment to not only explore theoretical frameworks but to actively contribute to the practical evolution of NLP technologies across various domains. Through my work, I aspire to make meaningful strides in the field, fostering advancements that resonate with the broader landscape of language processing and communication technologies.
 
-<b>I am looking for a Master's program in Computer Science with a concentration in Natural Language Processing, Artificial Intelligence, and Machine Learning. I prefer a thesis-based program.<b>
+<b>I am preparing for a thesis-based Master's program in Computer Science with a concentration in Natural Language Processing, Artificial Intelligence, or Machine Learning for fall 2024.<b>
