@@ -21,7 +21,7 @@ Starting this December, I will be working as a Teaching and Research Assistant a
 
 The second project focused on recommending music to individuals in the mental health field. It utilized a chatbot interface similar to ChatGPT, but specifically designed for providing music recommendations in the context of mental health. The purpose of this paper is to analyze the different models, language systems, and neural networks used in previous research, and to establish a link between mental health chatbot applications and music platforms like Spotify and YouTube Music. By combining these elements, the aim is to offer an improved solution for individuals who require assistance.
 
-Both papers will be available on IEEE and Springer by January and June respectively. If you’re interested to look at please feel free to email me.
+Both papers will be available on IEEE and Springer by January and June, 2024 respectively. If you’re interested to look at please feel free to email me.
 
 <b>Feel free to contact me for any inquiries or potential colaboration or join for a paper collaboration in any research topic. You can reach me at [geme.t07[at]gmail.com](geme.t07@gmail.com) <b>
 
