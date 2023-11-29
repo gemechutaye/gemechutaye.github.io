@@ -10,6 +10,10 @@ redirect_from:
 
 Hi! I am a senior year undergraduate student studying Computer Science and Engineering at Jain University in Bengaluru, India. I was awarded a fully funded scholarship by the Government of India and Jain University for this program.
 
+
+<b>I am preparing for a thesis-based Master's program in Computer Science with a concentration in Natural Language Processing, Artificial Intelligence, or Machine Learning for fall 2024.<b>
+
+
 Research Experiance
 ======
 
@@ -27,5 +31,3 @@ Research Interest
 ======
 My primary research interest centers on Natural Language Processing (NLP), with a distinct emphasis on advancing the realms of language modeling, emotion detection, and multimodal NLP. I am passionate about delving into innovative methodologies that amplify language comprehension and processing capabilities, integrating diverse modalities such as text, audio, and visual information.
 
-
-<b>I am preparing for a thesis-based Master's program in Computer Science with a concentration in Natural Language Processing, Artificial Intelligence, or Machine Learning for fall 2024.<b>
