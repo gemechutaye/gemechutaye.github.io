@@ -26,6 +26,7 @@ The second project focused on recommending music to individuals in the mental he
 
 Both papers will be available on IEEE and Springer by January and June, 2024 respectively. If you’re interested to look at please feel free to email me.
 
+
 <b>Feel free to contact me for any inquiries or potential colaboration or join for a paper collaboration in any research topic. You can reach me at [geme.t07[at]gmail.com](geme.t07@gmail.com) <b>
 
 
