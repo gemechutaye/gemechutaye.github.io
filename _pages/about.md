@@ -17,8 +17,7 @@ I'm currently in my senior year of undergraduate studying Computer Science and E
 <b>Currently I am looking for a thesis-based Master's program in Computer Science with a concentration in Natural Language Processing, Artificial Intelligence, or Machine Learning for fall 2024.<b>
 
 
-<h2>  Research Experiance </h2>
-======
+<h2>Research Experiance</h2>
 
 I have actively contributed to two research papers. In the first paper, my team and I reviewed different class scheduling systems based on Artificial Intelligence. Our goal was to improve and optimize the current scheduling process in higher education. I had the opportunity to present this paper at a conference, and it will be indexed in IEEE by January.
 
