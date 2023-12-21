@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I grew up in a small city called Jimma in Ethiopia. In my quest for a better education, I was granted a fully funded scholarship based on merit by the Government of India and Jain University in 2020. Currently, I am a senior undergraduate student studying Computer Science and Engineering at Jain University in Bengaluru, India. 
+I'm currently in my senior year of undergraduate studying Computer Science and Engineering at Jain University in Bengaluru, India. I was fortunate to have the opportunity to study abroad and receive a fully-funded undergraduate program in India.
 
 
-Research interest: Centers on Natural Language Processing (NLP), (esp. with a distinct emphasis on advancing the realms of language modeling, emotion detection, and multimodal NLP), Machine Learning, Deep Learning, Reinforcement Learning, Information Retrival.
+<font color="SteelBlue">Research Interests:</font> Centers on Natural Language Processing (NLP), (esp. with a distinct emphasis on advancing the realms of language modeling, emotion detection, and multimodal NLP), Machine Learning, Deep Learning, Reinforcement Learning, Information Retrival.
 
 
 <b>Currently I am looking for a thesis-based Master's program in Computer Science with a concentration in Natural Language Processing, Artificial Intelligence, or Machine Learning for fall 2024.<b>
@@ -20,17 +20,19 @@ Research interest: Centers on Natural Language Processing (NLP), (esp. with a di
 Research Experiance
 ======
 
-Currently I'm a Teaching and Research Assistant at Jain University. I have actively contributed to two research papers. In the first paper, my team and I reviewed different class scheduling systems based on Artificial Intelligence. Our goal was to improve and optimize the current scheduling process in higher education. I had the opportunity to present this paper at a conference, and it will be indexed in IEEE by January.
+I have actively contributed to two research papers. In the first paper, my team and I reviewed different class scheduling systems based on Artificial Intelligence. Our goal was to improve and optimize the current scheduling process in higher education. I had the opportunity to present this paper at a conference, and it will be indexed in IEEE by January.
 
 The second project focused on recommending music to individuals in the mental health field. It utilized a chatbot interface similar to ChatGPT, but specifically designed for providing music recommendations in the context of mental health. The purpose of this paper is to analyze the different models, language systems, and neural networks used in previous research, and to establish a link between mental health chatbot applications and music platforms like Spotify and YouTube Music. By combining these elements, the aim is to offer an improved solution for individuals who require assistance.
 
 Both papers will be available on IEEE and Springer by January and June, 2024 respectively. If you’re interested to look at please feel free to email me.
 
+<h2 style="color:SteelBlue;"><a id="selected_publications">Selected Papers:</a></h2>
 
-<b>Feel free to contact me for any inquiries or potential colaboration or join for a paper collaboration in any research topic. You can reach me at [geme.t07[at]gmail.com](geme.t07@gmail.com) <b>
+<ul style="margin:1;padding:1" vspace = "-0px">
+  <li>  <b>Exploring the Role of Artificial Intelligence in Class Scheduling and Management: A Comprehensive Survey and Review
+</b>  <a href="[https://arxiv.org/abs/2302.03805](https://ieeexplore.ieee.org/document/10346898)" target="_blank" LINK="red"> [IEEE Version]</a>
+  <br>  Gemechu Taye; Sonal Sharma; Pratishtha Shah; Yohanes Getinet Nuriye
+  <br>In 2023 International Conference on Computer Science and Emerging Technologies (CSET)</li> 
 
 
-
-Research Interest
-======
 
