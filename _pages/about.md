@@ -11,13 +11,16 @@ redirect_from:
 Hello! I grew up in a small city called Jimma in Ethiopia. In my quest for a better education, I was granted a fully funded scholarship based on merit by the Government of India and Jain University in 2020. Currently, I am a senior undergraduate student studying Computer Science and Engineering at Jain University in Bengaluru, India. 
 
 
+Research interest: Centers on Natural Language Processing (NLP), (esp. with a distinct emphasis on advancing the realms of language modeling, emotion detection, and multimodal NLP), Machine Learning, Deep Learning, Reinforcement Learning, Information Retrival.
+
+
 <b>Currently I am looking for a thesis-based Master's program in Computer Science with a concentration in Natural Language Processing, Artificial Intelligence, or Machine Learning for fall 2024.<b>
 
 
 Research Experiance
 ======
 
-Starting this December, I will be working as a Teaching and Research Assistant at Jain University. I have actively contributed to two research papers. In the first paper, my team and I reviewed different class scheduling systems based on Artificial Intelligence. Our goal was to improve and optimize the current scheduling process in higher education. I had the opportunity to present this paper at a conference, and it will be indexed in IEEE by January.
+Currently I'm a Teaching and Research Assistant at Jain University. I have actively contributed to two research papers. In the first paper, my team and I reviewed different class scheduling systems based on Artificial Intelligence. Our goal was to improve and optimize the current scheduling process in higher education. I had the opportunity to present this paper at a conference, and it will be indexed in IEEE by January.
 
 The second project focused on recommending music to individuals in the mental health field. It utilized a chatbot interface similar to ChatGPT, but specifically designed for providing music recommendations in the context of mental health. The purpose of this paper is to analyze the different models, language systems, and neural networks used in previous research, and to establish a link between mental health chatbot applications and music platforms like Spotify and YouTube Music. By combining these elements, the aim is to offer an improved solution for individuals who require assistance.
 
@@ -30,5 +33,4 @@ Both papers will be available on IEEE and Springer by January and June, 2024 res
 
 Research Interest
 ======
-My primary research interest centers on Natural Language Processing (NLP), with a distinct emphasis on advancing the realms of language modeling, emotion detection, and multimodal NLP. I am passionate about delving into innovative methodologies that amplify language comprehension and processing capabilities, integrating diverse modalities such as text, audio, and visual information.
 
