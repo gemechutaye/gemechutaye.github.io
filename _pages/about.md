@@ -26,6 +26,8 @@ The second project focused on recommending music to individuals in the mental he
 
 Both papers will be available on IEEE and Springer by January and June, 2024 respectively. If you’re interested to look at please feel free to email me.
 
+<body>
+<html>
 <h2 style="color:SteelBlue;"><a id="selected_publications">Selected Papers:</a></h2>
 
 <ul style="margin:1;padding:1" vspace = "-0px">
@@ -34,5 +36,11 @@ Both papers will be available on IEEE and Springer by January and June, 2024 res
   <br>  Gemechu Taye; Sonal Sharma; Pratishtha Shah; Yohanes Getinet Nuriye
   <br>In 2023 International Conference on Computer Science and Emerging Technologies (CSET)</li> 
 
+</ul>
 
+
+<hr style="color:black;"> 
+ 
+</body>
+</html>
 
