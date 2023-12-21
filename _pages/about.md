@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 
+Hi, thanks for your interest!
+
 I am currently in my final year of undergraduate studies, pursuing a degree in Computer Science and Engineering at Jain University in Bengaluru, India. I feel grateful for the chance to study abroad and be part of a fully-funded undergraduate program in India.
 
 <font color="SteelBlue">Research Interests:</font>Centers on Natural Language Processing (NLP), (esp. with a distinct emphasis on advancing the realms of language modeling, emotion detection, and multimodal NLP), Machine Learning, Deep Learning, Reinforcement Learning, and Information Retrival.
-
 
 <b>I am currently searching for a Master's program in Computer Science that is thesis-based, with a focus on Natural Language Processing, Artificial Intelligence, or Machine Learning. I plan to start in fall 2024.<b>
 
