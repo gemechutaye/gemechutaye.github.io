@@ -13,7 +13,7 @@ I am currently in my final year of undergraduate studies, pursuing a degree in C
 <font color="SteelBlue">Research Interests:</font>Centers on Natural Language Processing (NLP), (esp. with a distinct emphasis on advancing the realms of language modeling, emotion detection, and multimodal NLP), Machine Learning, Deep Learning, Reinforcement Learning, Information Retrival.
 
 
-<b>Currently I am looking for a thesis-based Master's program in Computer Science with a concentration in Natural Language Processing, Artificial Intelligence, or Machine Learning for fall 2024.<b>
+<b>I am currently searching for a Master's program in Computer Science that is thesis-based, with a focus on Natural Language Processing, Artificial Intelligence, or Machine Learning. I plan to start in fall 2024.<b>
 
 
 <h2>Research Experiance</h2>
