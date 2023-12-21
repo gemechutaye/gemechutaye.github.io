@@ -10,11 +10,8 @@ redirect_from:
 
 Hello! I grew up in a small city called Jimma in Ethiopia. In my quest for a better education, I was granted a fully funded scholarship based on merit by the Government of India and Jain University in 2020. Currently, I am a senior undergraduate student studying Computer Science and Engineering at Jain University in Bengaluru, India. 
 
-India is renowned for its culturally vibrant and diverse history, and in my early twenties, I had the chance to fully embrace and immerse myself in it. I had the privilege of connecting with numerous individuals and interacting with people from over 12 different countries. This experience had a profound impact on me, deepening my understanding of India's rich heritage and expanding my global outlook.
 
-
-
-<b>I am preparing for a thesis-based Master's program in Computer Science with a concentration in Natural Language Processing, Artificial Intelligence, or Machine Learning for fall 2024.<b>
+<b>Currently I am looking for a thesis-based Master's program in Computer Science with a concentration in Natural Language Processing, Artificial Intelligence, or Machine Learning for fall 2024.<b>
 
 
 Research Experiance
