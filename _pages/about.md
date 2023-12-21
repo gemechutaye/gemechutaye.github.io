@@ -11,13 +11,13 @@ redirect_from:
 I'm currently in my senior year of undergraduate studying Computer Science and Engineering at Jain University in Bengaluru, India. I was fortunate to have the opportunity to study abroad and receive a fully-funded undergraduate program in India.
 
 
-<font color="SteelBlue">Research Interests:</font> Centers on Natural Language Processing (NLP), (esp. with a distinct emphasis on advancing the realms of language modeling, emotion detection, and multimodal NLP), Machine Learning, Deep Learning, Reinforcement Learning, Information Retrival.
+<font color="SteelBlue">Research Interests:</font>Centers on Natural Language Processing (NLP), (esp. with a distinct emphasis on advancing the realms of language modeling, emotion detection, and multimodal NLP), Machine Learning, Deep Learning, Reinforcement Learning, Information Retrival.
 
 
 <b>Currently I am looking for a thesis-based Master's program in Computer Science with a concentration in Natural Language Processing, Artificial Intelligence, or Machine Learning for fall 2024.<b>
 
 
-Research Experiance
+<h2>  Research Experiance </h2>
 ======
 
 I have actively contributed to two research papers. In the first paper, my team and I reviewed different class scheduling systems based on Artificial Intelligence. Our goal was to improve and optimize the current scheduling process in higher education. I had the opportunity to present this paper at a conference, and it will be indexed in IEEE by January.
