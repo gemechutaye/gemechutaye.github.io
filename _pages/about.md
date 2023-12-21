@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently in my senior year of undergraduate studying Computer Science and Engineering at Jain University in Bengaluru, India. I was fortunate to have the opportunity to study abroad and receive a fully-funded undergraduate program in India.
-
+I am currently in my final year of undergraduate studies, pursuing a degree in Computer Science and Engineering at Jain University in Bengaluru, India. I feel grateful for the chance to study abroad and be part of a fully-funded undergraduate program in India.
 
 <font color="SteelBlue">Research Interests:</font>Centers on Natural Language Processing (NLP), (esp. with a distinct emphasis on advancing the realms of language modeling, emotion detection, and multimodal NLP), Machine Learning, Deep Learning, Reinforcement Learning, Information Retrival.
 
