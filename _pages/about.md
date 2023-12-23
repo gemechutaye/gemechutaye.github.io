@@ -32,7 +32,7 @@ Both papers will be available on IEEE and Springer by January and June, 2024 res
 
 <ul style="margin:1;padding:1" vspace = "-0px">
   <li>  <b>Exploring the Role of Artificial Intelligence in Class Scheduling and Management: A Comprehensive Survey and Review
-</b>  <a href="[https://ieeexplore.ieee.org/document/10346898](https://ieeexplore.ieee.org/document/10346898)" target="_blank" LINK="red"> [IEEE Version]</a>
+</b>  <a href="https://ieeexplore.ieee.org/document/10346898" target="_blank" LINK="red"> [IEEE Version]</a>
   <br>  Gemechu Taye; Sonal Sharma; Pratishtha Shah; Yohanes Getinet Nuriye
   <br>In 2023 International Conference on Computer Science and Emerging Technologies (CSET)</li> 
 
