@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, there!
+Hi, there! 👋
 
 I am Gemechu, currently in my final year of undergraduate studies, pursuing a degree in Computer Science and Engineering at Jain University in Bengaluru, India. Originally, I was born and raised in Ethiopia. I had the great opportunity to attend a fully funded study abroad program in India through the Study in India government scholarship.
 
