@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Gemechu Taye"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -17,7 +17,7 @@ I am currently in my final year of undergraduate studies, pursuing a degree in C
 <b>I am currently searching for a Master's program in Computer Science that is thesis-based, with a focus on Natural Language Processing, Artificial Intelligence, or Machine Learning. I plan to start in fall 2024.<b>
 
 
-<h2>Research Experiance</h2>
+## Research Experiance
 
 I have actively contributed into two research papers. In the first paper, my team and I reviewed different class scheduling systems based on Artificial Intelligence. Our goal was to improve and optimize the current scheduling process in higher education. I had the opportunity to present this paper at a conference, and it will be indexed in IEEE by January.
 
@@ -28,7 +28,7 @@ Both papers will be available on IEEE and Springer by January and June, 2024 res
 
 <html>
   <body>
-<h2 style="color:SteelBlue;"><a id="selected_publications">Selected Papers:</a></h2>
+## Selected Papers
 
 <ul style="margin:1;padding:1" vspace = "-0px">
   <li>  <b>Exploring the Role of Artificial Intelligence in Class Scheduling and Management: A Comprehensive Survey and Review
@@ -42,7 +42,7 @@ Both papers will be available on IEEE and Springer by January and June, 2024 res
   <li>  <b>Harnessing Conversational Agents and Music Recommendations System as Adaptive Mental Health Interventions: A Schoping Review of Personalized AI Chatbots for for Therapeutic Use</b>  
     <a> [In Submission]</a>
   <br>  Gemechu Taye; Sonal Sharma; Pratishtha Shah; Yohanes Getinet Nuriye
-  <br>In The International Conference on Advanced Data-Driven Intelligence and Engineering, [ Springer 2024 ]</li> 
+  <br>In The International Conference on Advanced Data-Driven Intelligence and Engineering, [Springer 2024]</li> 
 
 </ul>
 
@@ -55,8 +55,8 @@ Both papers will be available on IEEE and Springer by January and June, 2024 res
 
 ## News
 
-* December 2023:I started as a Research Assistantship position at [Jain University](https://www.jainuniversity.ac.in/).
+* December 2023: I started as a Research Assistantship position at [Jain University](https://www.jainuniversity.ac.in/).
 * October 2023: I gave a paper presentation at the [CSET2023](https://ieeexplore.ieee.org/document/10346898/) conference.
 * September 2023: My first paper accepted at [CSET2023](https://set.jainuniversity.ac.in/international-conference/).
-* October 2020: I received an admission offer for B.Tech in CSE at [Jain University](https://www.jainuniversity.ac.in/).
+* October 2020: I received an admission offer for B.Tech in Computer Science and Engineering at [Jain University](https://www.jainuniversity.ac.in/).
 
