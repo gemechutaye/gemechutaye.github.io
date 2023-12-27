@@ -52,3 +52,11 @@ Both papers will be available on IEEE and Springer by January and June, 2024 res
 </body>
 </html>
 
+
+## News
+
+* December 2023:I started as a Research Assistantship position at [Jain University](https://www.jainuniversity.ac.in/).
+* October 2023: I gave a paper presentation at the [CSET2023](https://ieeexplore.ieee.org/document/10346898/) conference.
+* September 2023: My first paper accepted at [CSET2023](https://set.jainuniversity.ac.in/international-conference/).
+* October 2020: I received an admission offer for B.Tech in CSE at [Jain University](https://www.jainuniversity.ac.in/).
+
