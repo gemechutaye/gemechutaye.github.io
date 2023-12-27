@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Hi, there! 👋
-
 I am Gemechu, currently in my final year of undergraduate studies, pursuing a degree in Computer Science and Engineering at Jain University in Bengaluru, India. Originally, I was born and raised in Ethiopia. I had the great opportunity to attend a fully funded study abroad program in India through the Study in India government scholarship.
 
 <font color="SteelBlue">Research Interests: </font> Centers on Natural Language Processing (NLP), (esp. with a distinct emphasis on advancing the realms of language modeling, emotion detection, and multimodal NLP), Machine Learning, Deep Learning, Reinforcement Learning, and Information Retrival.
