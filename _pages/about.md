@@ -37,7 +37,7 @@ The second paper is in submission and will be indexed on Springer by May 2024. I
 </ul>
 
 <ul style="margin:1;padding:1" vspace = "-0px">
-  <li>  <b>Harnessing Conversational Agents and Music Recommendations System as Adaptive Mental Health Interventions: A Schoping Review of Personalized AI Chatbots for for Therapeutic Use</b>  
+  <li>  <b>Harnessing Conversational Agents and Music Recommendations System as Adaptive Mental Health Interventions: A Schoping Review of Personalized AI Chatbots for Therapeutic Use</b>  
     <a> [In Submission]</a>
   <br>  Gemechu Taye; Sonal Sharma; Pratishtha Shah; Yohanes Getinet Nuriye
   <br>In The International Conference on Advanced Data-Driven Intelligence and Engineering, (ICADIE2024)</li> 
