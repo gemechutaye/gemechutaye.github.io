@@ -53,7 +53,7 @@ The second paper is in submission and will be indexed on Springer by May 2024. I
 
 ## News
 
-* December 2023: I started as a Research Assistantship position at [Jain University](https://www.jainuniversity.ac.in/).
+* December 2023: I started a Research Assistantship position at [Jain University](https://www.jainuniversity.ac.in/).
 * October 2023: I gave a paper presentation at the [CSET2023](https://ieeexplore.ieee.org/document/10346898/) conference.
 * September 2023: My first paper accepted at [CSET2023](https://set.jainuniversity.ac.in/international-conference/).
 * July 2021: I have been accepted as a campus director for the [Hult Prize Foundation](https://www.hultprize.org/) to lead a campus program at Jain University.
