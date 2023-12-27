@@ -19,11 +19,11 @@ I am Gemechu, currently in my final year of undergraduate studies, pursuing a de
 
 ## Research Experiance
 
-I have actively contributed into two research papers. In the first paper, my team and I reviewed different class scheduling systems based on Artificial Intelligence. Our goal was to improve and optimize the current scheduling process in higher education. I had the opportunity to present this paper at a conference, and it will be indexed in IEEE by January.
+I have actively contributed into two research papers. In the first research paper, I actively contributed to a comprehensive review of Artificial Intelligence-based class scheduling systems. Our main objective was to enhance and optimize the existing scheduling process in higher education by leveraging cutting-edge AI technologies. Through an in-depth analysis and evaluation of various systems, we identified key challenges and proposed innovative solutions to streamline and improve the efficiency of class scheduling. Our findings and recommendations aim to facilitate a smoother academic experience for both students and faculty members, ultimately contributing to the overall effectiveness of educational institutions.
 
-The second project focused on recommending music to individuals in the mental health field. It utilized a chatbot interface similar to ChatGPT, but specifically designed for providing music recommendations in the context of mental health. The purpose of this paper is to analyze the different models, language systems, and neural networks used in previous research, and to establish a link between mental health chatbot applications and music platforms like Spotify and YouTube Music. By combining these elements, the aim is to offer an improved solution for individuals who require assistance.
+The second project focused on developing a specialized chatbot interface, inspired by ChatGPT, to recommend music to individuals in the mental health field. The goal of this paper was to analyze various models, language systems, and neural networks used in previous research and establish a connection between mental health chatbot applications and popular music platforms such as Spotify and YouTube Music. By combining these elements, the aim was to provide an enhanced solution for individuals in need of music-based assistance within the context of mental health.
 
-Both papers will be available on IEEE and Springer by January and June, 2024 respectively. If you’re interested to look at please feel free to email me at geme.t07[at]gmail.com.
+The second paper is in submission and will be indexed on Springer by May 2024. If you’re interested to look at please feel free to email me at geme.t07[at]gmail.com.
 
 
 <html>
