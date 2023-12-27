@@ -28,7 +28,7 @@ Both papers will be available on IEEE and Springer by January and June, 2024 res
 
 <html>
   <body>
-## Selected Papers
+<h2> Selected Papers </h2> 
 
 <ul style="margin:1;padding:1" vspace = "-0px">
   <li>  <b>Exploring the Role of Artificial Intelligence in Class Scheduling and Management: A Comprehensive Survey and Review
