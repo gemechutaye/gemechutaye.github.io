@@ -1,11 +1,13 @@
 ---
-permalink: /
-title: "About me"
-excerpt: "Gemechu Taye"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+# permalink: /
+# title: "About me"
+# excerpt: "Gemechu Taye"
+# author_profile: true
+# redirect_from: 
+#   - /about/
+#   - /about.html
+published: false
+sitemap: false
 ---
 
 I am Gemechu, currently in my final year of undergraduate studies, pursuing a degree in Computer Science and Engineering at [Jain University](https://www.jainuniversity.ac.in/) in Bengaluru, India. Originally, I was born and raised in Ethiopia. I had a great opportunity to attend a fully funded study abroad program in India through the [Study in India](https://studyinindia.gov.in/) government scholarship.
