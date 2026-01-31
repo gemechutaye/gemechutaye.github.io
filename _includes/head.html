@@ -2,6 +2,11 @@
 
 <meta charset="utf-8">
 
+<!-- Redirect to new domain -->
+<meta http-equiv="refresh" content="0; url=https://gemechu.xyz/">
+<link rel="canonical" href="https://gemechu.xyz/">
+<script>window.location.replace("https://gemechu.xyz/");</script>
+
 {% include seo.html %}
 
 <link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
